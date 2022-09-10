@@ -48,7 +48,7 @@ driver.get("https://code.ptit.edu.vn/")
 
 Username = driver.find_element(By.XPATH, "/html/body/div[3]/div[1]/div/div[3]/div/form/input[2]").send_keys("b21dcat084")
 
-Password = driver.find_element(By.XPATH, "/html/body/div[3]/div[1]/div/div[3]/div/form/input[3]").send_keys("!@#$%^&*(", Keys.ENTER)
+Password = driver.find_element(By.XPATH, "/html/body/div[3]/div[1]/div/div[3]/div/form/input[3]").send_keys("**********", Keys.ENTER)
 
 driver.get(Path)
 
