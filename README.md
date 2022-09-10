@@ -27,7 +27,7 @@ I think it's normal with many people, but on my side, it makes me feel uncomfort
 
 2. Bot's Modules:
 
-2.1. Crawl input and output module
+2.1. Crawling input and output module
 
 ![13](https://user-images.githubusercontent.com/100874484/188287366-176624f7-7cf5-4adf-8f3a-c2ab89c30fec.png)
 
