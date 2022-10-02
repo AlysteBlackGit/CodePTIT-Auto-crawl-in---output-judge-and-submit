@@ -49,7 +49,7 @@ I think it's normal with many people, but on my side, it makes me feel uncomfort
 
 3. Thank you
 
-For whatever reason, I'm so greatful for your time visiting this project. Thank you for your attention and hope you comeback soon.
+For whatever reason, I'm so grateful for your time visiting this project. Thank you for your attention and hope you comeback soon.
 
 
 
